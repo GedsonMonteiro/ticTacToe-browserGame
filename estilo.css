@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background-image: url("img/background.jpg");
+    color: black;
+    height: 100vh;
+    min-height: 500px;
+    background-position: center center;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1, .jogador, .vencedor {
+    color: white;
+    font-family: 'Sigmar One', cursive;
+}
+
+.quadrado {
+    text-align: center;
+    width: 50px;
+    background: #eee;
+    display: inline-block;
+    padding: 40px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+    color: #eee;
+    box-shadow: 1px 1px 4px 1px #ccc;
+}
+
+.jogador, .vencedor {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+    background: #eee;
+    cursor: pointer;
+    box-shadow: 1px 1px 4px 0.5px #ccc;
+    font-family: 'Sigmar One', cursive;
+}
