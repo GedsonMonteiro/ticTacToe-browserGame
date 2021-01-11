@@ -5,4 +5,6 @@ HTML para estruturar nosso site;<br>
 CSS para estilizar e dar vida a ele;<br>
 Javascript para criarmos toda suas interações, desde a escolha do jogador, efetivar uma jogada e dar um vencedor ao jogo.<br>
 
-Apoio: Vitor Ruschoni - DIO
+Apoio: Vitor Ruschoni - DIO<br>
+
+Link para visualização: https://gedsonmonteiro.github.io/ticTacToe-browserGame/
