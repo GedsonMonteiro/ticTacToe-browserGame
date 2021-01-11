@@ -1,4 +1,4 @@
-#Jogo da velha (Tic Tac Toe - Browser Game)<br>
+# Jogo da velha (Tic Tac Toe - Browser Game)<br>
 
 Neste projeto o clássico jogo da velha foi elaborado usando:<br>
 HTML para estruturar nosso site;<br>
